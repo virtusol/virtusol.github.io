@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VirtuSol - Virtual Solutions</title>
+    <description>Harness the power of the latest technologies! Gain insights from data! Make predictions! Automate your processes!</description>
+    <link>https://softmath-ai.github.io//</link>
+    <atom:link href="https://softmath-ai.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Jan 2022 12:18:25 -0600</pubDate>
+    <lastBuildDate>Sat, 22 Jan 2022 12:18:25 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Benefits of Static Site Generators4</title>
+        <description>&lt;h1 id=&quot;examples&quot;&gt;Examples&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List of examples 4&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;This is secure&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 18 Jan 2022 12:17:00 -0600</pubDate>
+        <link>https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll4.html</link>
+        <guid isPermaLink="true">https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll4.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Benefits of Static Site Generators3</title>
+        <description>&lt;h1 id=&quot;examples&quot;&gt;Examples&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bootstrap examples&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;This is secure&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 18 Jan 2022 12:17:00 -0600</pubDate>
+        <link>https://softmath-ai.github.io//bootstrap/benefits-of-using-jekyll3.html</link>
+        <guid isPermaLink="true">https://softmath-ai.github.io//bootstrap/benefits-of-using-jekyll3.html</guid>
+        
+        
+        <category>bootstrap</category>
+        
+      </item>
+    
+      <item>
+        <title>Benefits of Static Site Generators2</title>
+        <description>&lt;h1 id=&quot;examples&quot;&gt;Examples&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List of examples2&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;This is secure&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 18 Jan 2022 12:17:00 -0600</pubDate>
+        <link>https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll2.html</link>
+        <guid isPermaLink="true">https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll2.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Benefits of Static Site Generators</title>
+        <description>&lt;h1 id=&quot;examples&quot;&gt;Examples&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List of examples&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;This is secure&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 18 Jan 2022 12:17:00 -0600</pubDate>
+        <link>https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll.html</link>
+        <guid isPermaLink="true">https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
