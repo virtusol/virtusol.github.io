@@ -3,11 +3,11 @@
   <channel>
     <title>VirtuSol - Virtual Solutions</title>
     <description>Harness the power of the latest technologies! Gain insights from data! Make predictions! Automate your processes!</description>
-    <link>https://softmath-ai.github.io//</link>
-    <atom:link href="https://softmath-ai.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Jan 2022 12:18:25 -0600</pubDate>
-    <lastBuildDate>Sat, 22 Jan 2022 12:18:25 -0600</lastBuildDate>
-    <generator>Jekyll v3.8.7</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://virtusol.ca/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 May 2023 11:51:21 -0400</pubDate>
+    <lastBuildDate>Tue, 02 May 2023 11:51:21 -0400</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>Benefits of Static Site Generators4</title>
@@ -18,9 +18,9 @@
   &lt;li&gt;&lt;strong&gt;This is secure&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 18 Jan 2022 12:17:00 -0600</pubDate>
-        <link>https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll4.html</link>
-        <guid isPermaLink="true">https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll4.html</guid>
+        <pubDate>Tue, 18 Jan 2022 12:17:00 -0500</pubDate>
+        <link>http://virtusol.ca/jekyll/benefits-of-using-jekyll4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/benefits-of-using-jekyll4.html</guid>
         
         
         <category>jekyll</category>
@@ -36,9 +36,9 @@
   &lt;li&gt;&lt;strong&gt;This is secure&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 18 Jan 2022 12:17:00 -0600</pubDate>
-        <link>https://softmath-ai.github.io//bootstrap/benefits-of-using-jekyll3.html</link>
-        <guid isPermaLink="true">https://softmath-ai.github.io//bootstrap/benefits-of-using-jekyll3.html</guid>
+        <pubDate>Tue, 18 Jan 2022 12:17:00 -0500</pubDate>
+        <link>http://virtusol.ca/bootstrap/benefits-of-using-jekyll3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bootstrap/benefits-of-using-jekyll3.html</guid>
         
         
         <category>bootstrap</category>
@@ -54,9 +54,9 @@
   &lt;li&gt;&lt;strong&gt;This is secure&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 18 Jan 2022 12:17:00 -0600</pubDate>
-        <link>https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll2.html</link>
-        <guid isPermaLink="true">https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll2.html</guid>
+        <pubDate>Tue, 18 Jan 2022 12:17:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/benefits-of-using-jekyll2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/benefits-of-using-jekyll2.html</guid>
         
         
         <category>jekyll</category>
@@ -72,9 +72,9 @@
   &lt;li&gt;&lt;strong&gt;This is secure&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 18 Jan 2022 12:17:00 -0600</pubDate>
-        <link>https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll.html</link>
-        <guid isPermaLink="true">https://softmath-ai.github.io//jekyll/benefits-of-using-jekyll.html</guid>
+        <pubDate>Tue, 18 Jan 2022 12:17:00 -0500</pubDate>
+        <link>http://virtusol.ca/jekyll/benefits-of-using-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/benefits-of-using-jekyll.html</guid>
         
         
         <category>jekyll</category>

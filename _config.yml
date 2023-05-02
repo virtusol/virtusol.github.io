@@ -53,5 +53,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Maria Ratcheva"
+      author: "VirtuSol"
       category: "jekyll"  # default category - I will mainly write about jekyll

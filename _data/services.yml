@@ -1,31 +1,15 @@
-- icon: "ion-coffee"
-  title: "Branding"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+- icon: "icon ion-social-reddit-outline"
+  title: "Artificial Intelligence"
+  content: "How your company can benefit from the latest discoveries in Artificial Intelligence."
 
-- icon: "icon ion-compass"
-  title: "Web Design"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+- icon: "icon ion-podium"
+  title: "Data Architecture"
+  content: "Treat your data as a business asset and apply data management best practices."
 
 - icon: "icon ion-image"
-  title: "App Design"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  title: "Business Architecture"
+  content: "How business functions can be modeled to become a solid foundation for effective strategy execution."
 
-- icon: "icon ion-bug"
-  title: "Start Up"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-- icon: "icon ion-headphone"
-  title: "Logo Design"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-- icon: "icon ion-leaf"
-  title: "Development"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-- icon: "icon ion-planet"
-  title: "Brand Identity"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-- icon: "icon ion-earth"
-  title: "Brand Identity"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+- icon: "icon ion-network"
+  title: "Solutions Architecture"
+  content: "Build evolvable future-proof solutions that solve business problems."
