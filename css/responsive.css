@@ -150,6 +150,12 @@ px      68    160    252    344    436    528    620    712    */
 					contact close 
 -----------------------------------------------*/
   /*------------------*/
+
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+  }
 }
 /*		Mobile Layout: 320px.
 		Gutters: 24px.
@@ -166,10 +172,10 @@ px      68    160    252    */
     padding-left: 0px;
   }
   h2 {
-    font-size: 18px;
+    font-size: 30px;
   }
   p {
-    font-size: 13px;
+    font-size: 20px;
   }
   header .navbar-default .navbar-toggle {
     margin-top: 20px;
@@ -183,7 +189,7 @@ px      68    160    252    */
     padding-left: 0px;
   }
   #slider .block h1 {
-    font-size: 20px;
+    font-size: 30px;
   }
   #slider .block p {
     font-size: 13px;
